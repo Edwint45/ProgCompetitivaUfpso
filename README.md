@@ -1,4 +1,5 @@
-<p align="center"><strong>PROGRAMACIÓN COMPETITIVA UFPSO</strong></p>
+# PROGRAMACIÓN COMPETITIVA UFPSO
+<p align="center"><strong></strong></p>
 
 <p align="center">Este repositorio contiene diferente material de estudio y desarrollo con el fin de fortalecer habiliadades para la programación competitiva.</p>
 
