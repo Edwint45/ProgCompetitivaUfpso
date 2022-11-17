@@ -14,11 +14,11 @@ Tiene tres fórmulas fundamentales que se basan en el uso de los índices.
 Dado el siguiente array: [1,3,5,7,9,11,13,15,17,19,21,23]
 Buscar los valores indicados en la sección de Input e imprimir la cantidad de comparaciones y el índice donde se encuentra
 # <h2>Input</h2>
-*18 
-*11 
-*19 
+* 18 
+* 11 
+* 19 
 
 # <h2>Output</h2>
-*-1 
-*1-5 
-*4-9 
+* -1 
+* 1-5 
+* 4-9 
