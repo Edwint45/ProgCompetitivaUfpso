@@ -12,11 +12,11 @@ Dado el siguiente array: [17,20,26,31,44,54,55,65,77,93]
 Buscar los valores indicados en la sección de Input e imprimir la cantidad de comparaciones y el índice donde se encuentra
 
 # <h2>Input</h2>
-54
-17
-77
+* 54
+* 17
+* 77
 
 # <h2>Output</h2>
-6-5
-1-0
-9-8
+* 6-5
+* 1-0
+* 9-8
