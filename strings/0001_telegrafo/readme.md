@@ -5,7 +5,7 @@ Dado un mensaje, se debe calcular su costo para enviarlo por telégrafo. Para es
 Su mensaje debe ser un string, y las letras del castellano (ñ, á, é, í, ó, ú) se consideran caracteres especiales.
 
 # <h2>Input</h2>
-Feliz Aniversario!
+* Feliz Aniversario!
 
 # <h2>Output</h2>
-Su mensaje cuesta $190
+* Su mensaje cuesta $190
