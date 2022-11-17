@@ -11,7 +11,6 @@ Escriba un programa que pregunte al usuario un puntaje, y muestre como resultado
 * 17
 
 # <h2>Output</h2>
-For each test case print a line with the maximum number of people Bruno can let into the club without loosing track of his counting. You may assume that the club is large enough to hold all the people in the queue.
 * 3
 * 2
 * 0
