@@ -11,10 +11,10 @@ Salidas
 Verifica si la cadena de texto es palindroma o no. Escribe una linea por caso con el texto "Palindromo" o "No Palindromo" según corresponda.
 
 # <h2>Input</h2>
-2
-A man, a plan, a canal: Panama
-race a car
+* 2
+* A man, a plan, a canal: Panama
+* race a car
 
 # <h2>Output</h2>
-Palindromo
-No Palindromo
+* Palindromo
+* No Palindromo
